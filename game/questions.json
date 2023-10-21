@@ -1,1 +1,162 @@
-
+[
+    {
+      "question": "Where does Santa live ?",
+      "choice1": "North Pole",
+      "choice2": "South Pole",
+      "choice3": "Iceland",
+      "choice4": "Antartica",
+      "answer": 1
+    },
+    {
+      "question": "Whose body gained the properties of rubber after unintentionally eating a Devil Fruit ?",
+      "choice1": "Portgas D. Ace",
+      "choice2": "Roronoa Zoro",
+      "choice3": "Monkey D. Luffy",
+      "choice4": "Monkey D. Garp",
+      "answer": 3
+    },
+    {
+      "question": " Which blood type is a universal donor ?",
+      "choice1": "A+",
+      "choice2": "AB+",
+      "choice3": "B+",
+      "choice4": "O-",
+      "answer": 4
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "choice1": "Abraham Lincoln",
+        "choice2": "John F. Kennedy",
+        "choice3": "Thomas Jefferson",
+        "choice4": "George Washington",
+        "answer": 4
+    },
+    {
+        "question": "What is the chemical symbol for gold ?",
+        "choice1": "G",
+        "choice2": "Au",
+        "choice3": "Go",
+        "choice4": "Ag",
+        "answer": 2
+    },
+    {
+        "question": "Who is known as the 'King of Pop' ?",
+        "choice1": "Michael Jackson",
+        "choice2": "Elvis Presley",
+        "choice3": "Frank Sinatra",
+        "choice4": "Prince",
+        "answer": 1
+    },
+    {
+        "question": "Which company developed the first commercial microprocessor chip, the 4004 ?",
+        "choice1": "IBM",
+        "choice2": "Intel",
+        "choice3": "Microsoft",
+        "choice4": "Apple",
+        "answer": 2
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup ?",
+        "choice1": "Seaweed",
+        "choice2": "Tofu",
+        "choice3": "Rice",
+        "choice4": "Noodles",
+        "answer": 2
+    },
+    {
+        "question": "Which actor played the character 'Jack Dawson' in the film 'Titanic' ?",
+        "choice1": "Leonardo DiCaprio",
+        "choice2": "Tom Hanks",
+        "choice3": "Brad Pitt",
+        "choice4": "Johnny Depp",
+        "answer": 1
+    },
+    {
+        "question": "How many players are there on a standard soccer (football) team ?",
+        "choice1": "9",
+        "choice2": "10",
+        "choice3": "11",
+        "choice4": "12",
+        "answer": 3
+    },
+    {
+        "question": "What is the capital city of Japan?",
+        "choice1": "Beijing",
+        "choice2": "Seoul",
+        "choice3": "Tokyo",
+        "choice4": "Shanghai",
+        "answer": 3
+    },
+    {
+        "question": "Which famous scientist developed the theory of general relativity?",
+        "choice1": "Isaac Newton",
+        "choice2": "Albert Einstein",
+        "choice3": "Stephen Hawking",
+        "choice4": "Marie Curie",
+        "answer": 2
+    },
+    {
+        "question": "Who is the author of the 'Harry Potter' book series?",
+        "choice1": "George R.R. Martin",
+        "choice2": "J.K. Rowling",
+        "choice3": "Stephen King",
+        "choice4": "J.R.R. Tolkien",
+        "answer": 2
+    },
+    {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "choice1": "Oxygen",
+        "choice2": "Carbon Dioxide",
+        "choice3": "Nitrogen",
+        "choice4": "Methane",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choice1": "Heart",
+        "choice2": "Brain",
+        "choice3": "Skin",
+        "choice4": "Liver",
+        "answer": 3
+    },
+    {
+        "question": "In which country would you find the ancient city of Machu Picchu?",
+        "choice1": "Greece",
+        "choice2": "Italy",
+        "choice3": "Peru",
+        "choice4": "Egypt",
+        "answer": 3
+    },
+    {       
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "choice1": "Charles Dickens",
+        "choice2": "William Shakespeare",
+        "choice3": "Jane Austen",
+        "choice4": "Leo Tolstoy",
+        "answer": 2
+    },
+    {
+        "question": "What is the primary function of the mitochondria in a cell?",
+        "choice1": "Cell division",
+        "choice2": "Energy production",
+        "choice3": "Protein synthesis",
+        "choice4": "Waste elimination",
+        "answer": 2
+    },
+    {   "question": "What is the largest mammal in the world?",
+        "choice1": "Elephant",
+        "choice2": "Giraffe",
+        "choice3": "Blue Whale",
+        "choice4": "Hippopotamus",
+        "answer": 3
+    },
+    {
+        "question": "Who is the lead singer of the rock band Queen?",
+        "choice1": "John Lennon",
+        "choice2": "Mick Jagger",
+        "choice3": "Freddie Mercury",
+        "choice4": "Bono",
+        "answer": 3
+    }
+    
+  ]
